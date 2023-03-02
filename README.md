@@ -19,6 +19,7 @@ Referênciando variáveis;
 Faça como eu fiz na aula;
 
 O que aprendemos?
+_______________________________________________________
 
 2-Tipos de variáveis:
 
@@ -37,6 +38,7 @@ Refletindo sobre variáveis;
 Faça como eu fiz na aula;
 
 O que aprendemos?
+__________________________________________________________________
 
 3- Trabalhando com muitos elementos:
 
@@ -52,6 +54,7 @@ Faça como eu fiz na aula;
 
 O que aprendemos?
 
+________________________________________________________________________________________
 4-Condicionais e fluxo de execução:
 
 Projeto da aula anterior;
@@ -69,6 +72,7 @@ Operador lógico;
 Faça como eu fiz na aula;
 
 O que aprendemos?
+_______________________________________________________________________________________________
 
 5- Iterando sobre coleções:
 
@@ -89,8 +93,10 @@ For..;
 Faça como eu fiz na aula;
 
 O que aprendemos?
+____________________________________________________________________________________________________
 
 6-Projeto Final do Curso.
+____________________________________________________________________________________________________
 
 7-Conclusão.
 
